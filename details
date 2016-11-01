@@ -1,0 +1,2 @@
+1. SyntaxError: non-keyword arg after keyword arg
+solve: 参数调用错误，函数调用的时候，如果第一个参数使用了关键字绑定，后面的参数也必须使用关键字绑定.
